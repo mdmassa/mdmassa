@@ -1,4 +1,5 @@
 ### Hello, I'm Massa!
+#### I'm a computer engineering student currently working as a webdesigner at *Base* startup and also as a programmer and artist on the game development team *Call From Beyond*, on the *Drunk Quest* project.
 
 <div>
   <img height="180cm" align="right" src="https://i.imgur.com/2DkF1KL.png" />
