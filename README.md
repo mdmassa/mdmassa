@@ -1,6 +1,4 @@
 ```C
-#include <developer.h>
-
 char name[5] = "Massa";
 int age = 19;
 char knowledges[10] = "C, Java, HTML5, CSS3";
