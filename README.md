@@ -7,7 +7,7 @@ printf("Hello, World!");
 ```
 
 <div align="center">
-  <img height="380em" src="https://i.imgur.com/ewfrBVV.gif" />
+  <img height="380em" src="https://i.imgur.com/3OlMO0j.gif" />
 </div>
 
 <br>
