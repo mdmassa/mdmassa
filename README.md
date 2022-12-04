@@ -10,7 +10,7 @@ printf("Hello, World!");
   <img height="380em" src="https://i.imgur.com/3OlMO0j.gif" />
 </div>
 
-<br>
+</br>
 
 <div align="center">
       <h2><img height="30em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/alien-monster_1f47e.jpg" />
@@ -19,8 +19,8 @@ printf("Hello, World!");
       My first programming language was PHP (not that I'm proud of it ¯\_(ツ)_/¯) and MySQL when I was studying Programming for Web Development at CECAPE Institute, where I also learned HTML5, CSS3 and Javascript.
 </div>
 
-<br>
-<br>
+</br>
+</br>
 
 <div align="center">
     <h2><img height="30em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/laptop_1f4bb.jpg" />
@@ -35,8 +35,8 @@ printf("Hello, World!");
 
 </div>
 
-<br>
-<br>
+</br>
+</br>
 
 <div align="center">
   <h2><img height="30em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/fire_1f525.jpg" />
@@ -46,8 +46,8 @@ printf("Hello, World!");
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmassa&theme=gruvbox&layout=compact" />
 </div>
 
-<br>
-<br>
+</br>
+</br>
 
 <div align="center">
     <h2><img height="30em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/speech-balloon_1f4ac.jpg" />
@@ -58,8 +58,8 @@ printf("Hello, World!");
       <a href="m.eduardamassa@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<br>
-<br>
+</br>
+</br>
 
 <div align="center">
   <img height="180cm" align="middle-centre" src="https://i.imgur.com/2DkF1KL.png" />
