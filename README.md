@@ -41,9 +41,9 @@ printf("Hello, World!");
 <div align="center">
   <h2><img height="30em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/noto-emoji/343/fire_1f525.jpg" />
      <img height="30em" src="https://i.imgur.com/t3TQDA4.png" /></h2>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdmassa&show_icons=true&theme=gruvbox" />
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmassa&show_icons=true&theme=gruvbox"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmassa&theme=gruvbox&layout=compact" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdmassa&show_icons=true&theme=dark" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmassa&show_icons=true&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmassa&theme=dark&layout=compact" />
 </div>
 
 </br>
