@@ -60,7 +60,3 @@ printf("Hello, World!");
 
 </br>
 </br>
-
-<div align="center">
-  <img height="180cm" align="middle-centre" src="https://i.imgur.com/2DkF1KL.png" />
-</div>
