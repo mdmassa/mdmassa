@@ -1,7 +1,7 @@
 ```C
 char name[5] = "Massa";
 int age = 20;
-char knowledges[50] = "C, Java, HTML5, CSS3, Javascript";
+char knowledges[100] = "C, Java, HTML5, CSS3, Javascript, PHP";
 
 printf("Hello, World!");
 ```
