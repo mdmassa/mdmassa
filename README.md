@@ -35,7 +35,7 @@ printf("Hello, World!");
 <table align="center">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmassa&theme=dark&layout=compact"/>
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmassa&theme=dark&layout=compact&langs_count=20"/>
     </td>
   </tr>
 </table>
