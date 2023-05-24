@@ -1,11 +1,3 @@
-<table align="center">
-  <tr>
-    <td>
-      <img height="250em" src="https://i.imgur.com/iNtzqz0.gif" />
-    </td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td>
@@ -21,6 +13,9 @@
   <tr>
     <td>
       <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmassa&theme=dark&layout=compact&langs_count=20"/>
+    </td>
+    <td>
+      <img height="250em" src="https://i.imgur.com/iNtzqz0.gif" />
     </td>
   </tr>
 </table>
