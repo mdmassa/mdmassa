@@ -2,7 +2,7 @@
   <tr>
     <td>
       <pre><code>
-        🛠️ linux, python, c/c++, electronics and automation;
+        ⚙️ linux, python, c/c++, electronics and automation;
         🍺 working on drunk quest game;
         🧠 facing reality;
       </code></pre>
