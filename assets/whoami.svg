@@ -1,0 +1,27 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <rect width="1000" height="420" rx="8" fill="#11141b"/>
+  <rect x="1" y="1" width="998" height="418" rx="8" fill="none" stroke="#383d49" stroke-width="2"/>
+
+  <path d="M8 1 H992 Q999 1 999 8 V45 H1 V8 Q1 1 8 1" fill="#20232d"/>
+  <path d="M1 45 H999" stroke="#383d49"/>
+
+  <circle cx="25" cy="23" r="7" fill="#ff6969"/>
+  <circle cx="50" cy="23" r="7" fill="#ffbd2e"/>
+  <circle cx="75" cy="23" r="7" fill="#27e86c"/>
+
+  <text x="500" y="28" text-anchor="middle" fill="#a3a6b0" font-family="monospace" font-size="14">mdmassa@linux: ~</text>
+
+  <g font-family="monospace">
+    <text x="38" y="100" fill="#27e86c" font-size="20">$ whoami</text>
+
+    <text x="38" y="170" fill="#f0f1f5" font-size="54" font-weight="bold">Computer Engineer</text>
+    <text x="38" y="230" fill="#27e86c" font-size="54" font-weight="bold">who loves low-level.</text>
+
+    <text x="38" y="285" fill="#a3a6b0" font-size="18">mdmassa — systems · linux · embedded · software</text>
+    <text x="38" y="325" fill="#f5bd35" font-size="18">C/C++ · Python · ESP32 · IoT · Open Source</text>
+
+    <text x="38" y="385" fill="#9296a2" font-size="15">Understanding things under the hood.</text>
+    <text x="920" y="385" text-anchor="end" fill="#27e86c" font-size="15">exit 0</text>
+  </g>
+</svg>
