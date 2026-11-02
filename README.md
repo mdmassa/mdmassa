@@ -1,15 +1,10 @@
 <table>
   <tr>
-    <td>
-    <pre><code>
-    ⚙️ linux, python, c/c++, electronics and automation;
-    🍺 working on drunk quest game;
-    🧠 facing reality;
-    </code></pre>
-      <!-- <img height="250em" src="https://github-readme-stats.vercel.app/api?username=mdmassa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats"> -->
+    <td width="70%" align="center" valign="middle">
+      <img src="./assets/whoami.svg" width="100%" alt="Whoami - Maria Eduarda Massa">
     </td>
-    <td>
-       <img height="250em" src="https://i.imgur.com/iNtzqz0.gif" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://i.imgur.com/iNtzqz0.gif" height="250" alt="Animation">
     </td>
   </tr>
 </table>
